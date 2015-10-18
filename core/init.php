@@ -4,7 +4,7 @@ $GLOBALS['config'] = array(
         'host' => 'localhost',
         'user_name' => 'root',
         'password' => 'root',
-        'db' => 'testdb'
+        'db' => 'testDB'
     )
 );
 
