@@ -1,6 +1,8 @@
 <?php
 require_once '../core/init.php';
 
+phpinfo();
+
 //require("../classes/DB.php");
 //DB2::getInstance() ->query("SELECT * FROM Persons");
 
